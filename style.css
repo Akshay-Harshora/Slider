@@ -1,0 +1,19 @@
+img{
+    width : 150px;
+    height : 100px;
+    float:left;
+    margin-right : 10px;
+    margin-left : 10px;
+}
+button
+{
+    height : 45px;
+    margin-top: 27px;
+    float : left;
+
+}
+body
+{
+    margin: 0;
+    padding: 0;
+}
